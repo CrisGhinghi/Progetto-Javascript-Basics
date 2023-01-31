@@ -5,4 +5,5 @@
 <p>L'utente, appena entrato nella pagina, visualizzerà 0 come valore del counter:<br>
   avrà a disposizione due pulsanti +/- per cambiare il valore del counter e uno per resettarne il valore.</p>
 
+
 <h4>Webhost utilizzato: https://www.netlify.com</h4>
