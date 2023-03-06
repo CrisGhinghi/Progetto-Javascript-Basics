@@ -9,7 +9,7 @@
     • e uno per resettarne il valore.</p>
   <br>
 <p align="center">
-  <img src="screenshot.png" alt="Size Limit CLI" width="738">
+  <img src="assets/img/screenshot.png" alt="Size Limit CLI" width="738">
 </p>
 
 <h4>Webhost utilizzato: https://www.netlify.com</h4>
