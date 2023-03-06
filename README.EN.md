@@ -1,4 +1,4 @@
-<h1 align="center">Javascript Basics Project by Cristina Ghinghiloschi</h1>
+<h1 align="center">👩🏻‍💻 Javascript Basics Project by Cristina Ghinghiloschi</h1>
 <h3 align="center">Developing a JavaScript application that allows the user to increase and decrease the value of the counter.</h3>
 <h4 align="center">https://63d8f281fb0a6e6ffb5b747c--exquisite-chebakia-52e0c4.netlify.app</h4>
 <br>
