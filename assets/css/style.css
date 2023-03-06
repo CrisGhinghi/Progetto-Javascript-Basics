@@ -43,7 +43,7 @@
 }
 
 @media (max-width: 768px){
-    .h1{
+    .title{
     font-size: 48px;
     text-align: center;
     }
