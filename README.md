@@ -1,6 +1,6 @@
 <h1 align="center">👩🏻‍💻 Progetto Javascript Basics</h1>
 <h3 align="center">Sviluppo un'applicazione JavaScript che permette all'utente di aumentare e decrementare il valore del counter.</h3>
-<h4 align="center">https://precious-sunflower-abd24d.netlify.app</h4>
+<h4 align="center">https://counter-app-crisghinghi.netlify.app</h4>
 <br>
 
 *Read this in other languages: [English](README.EN.md).*
