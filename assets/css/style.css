@@ -59,5 +59,6 @@ button:hover{
         font-size: 20px;
         padding: 5px 25px;
         margin: 5px;
+        transition: all .45s ease;
     }
 }
