@@ -40,6 +40,6 @@ increment.addEventListener("click", () => {
 container.setAttribute('class', 'container');
 title.setAttribute('class', 'title');
 counter.setAttribute('class', 'counter');
-decrement.setAttribute('class', 'button');
-reset.setAttribute('class', 'button');
-increment.setAttribute('class', 'button');
+decrement.setAttribute('class', 'btn');
+reset.setAttribute('class', 'btn');
+increment.setAttribute('class', 'btn');
