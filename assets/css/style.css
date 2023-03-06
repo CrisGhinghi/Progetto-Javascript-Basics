@@ -12,16 +12,20 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #262626;
+    background-color: #1D4259;
 }
 
 h1{
-    font-size: 80px;
+    font-size: 100px;
+    color: white;
+}
+.h1{
+    font-size: 100px;
     color: #F26430;
 }
 
 span{
-    font-size: 200px;
+    font-size: 250px;
     color: #F2EFEB;
 }
 
